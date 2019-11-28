@@ -13,3 +13,7 @@ h2 {
 .container p {
     font-size: 14px;
 }
+p:last-of-type {
+    font-weight: bold;
+    font-style: italic;
+}
