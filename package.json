@@ -19,6 +19,7 @@
   "homepage": "https://github.com/tomecky1/nauka-gita#readme",
   "devDependencies": {
     "autoprefixer-cli": "^1.0.0",
-    "browser-sync": "^2.26.7"
+    "browser-sync": "^2.26.12",
+    "html-validate": "^3.2.0"
   }
 }
